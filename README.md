@@ -1,4 +1,4 @@
-# EcoClassify : Image Recycling Classifier
+# EcoClassify : Image Recycling Classifier 🍀
 #### Overview 
 The application's purpose is to classify images into recyclable or organic categories.
 This Flask application is designed to accept image uploads, classify them using a pre-trained Convolutional Neural Network (CNN) model, and display the results on a web page. 
