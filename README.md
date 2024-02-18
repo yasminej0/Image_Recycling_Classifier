@@ -20,3 +20,4 @@ Flash messages are used to display the results.
 
 ##### Web Interface:
 The main route (/) renders the *index.html* template, which contains the file upload form and displays the prediction results.
+![](image/1.PNG)
