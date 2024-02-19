@@ -9,7 +9,7 @@ Here's a brief overview of the code:
 Users can upload an image through the web interface.
 
 ##### Prediction:
-- The uploaded image is passed to the *predictImage* function, which uses a pre-trained CNN model (my_cnn_model.h5) to predict the class of the image.
+- The uploaded image is passed to the *predictImage* function, which uses a pre-trained CNN model (my_cnn_model.h5) with 98% accuracy,to predict the class of the image.
 - The model is loaded using TensorFlow's *load_model* function.
 - The image is preprocessed to match the input shape expected by the model.
 - The model predicts whether the image is classified as "Recyclable" or "Organic."
